@@ -1,0 +1,4 @@
+django
+requests
+flake8
+isort
